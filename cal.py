@@ -1,6 +1,6 @@
 print("your operators +,-,*,/")
 num = input("put your first number: ")
-operator = input("put your OPS: ")
+operator = input("put your operator: ")
 num2 = input("put your second number: ")
 
 def cal():
